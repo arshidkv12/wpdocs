@@ -3,7 +3,7 @@ Elementor
 
 Docs - functions, actions hooks, filters hooks, shortcodes and classes list
 
-By[](https://wordpress.org/plugins/elementor/)
+By[elementor](https://wordpress.org/plugins/elementor/)
 
 Published Date - March 18, 2020
 
