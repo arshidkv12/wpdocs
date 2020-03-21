@@ -1,4 +1,4 @@
-# wpdocs - WordPress Plugins Hooks 
+# WPDocs - WordPress Plugins Hooks 
 
 [https://docs.wpdebuglog.com/](https://docs.wpdebuglog.com/)
 
